@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+.DS_store
+demod
+tmp
+testcases
+backup
+outputs
+testmodels
+output
+tmp*
