@@ -1,6 +1,6 @@
 # 🌟 3dgs_render_python
 
-English | [中文](assets\README_ch.md)
+English | [中文](assets/README_ch.md)
 
 ## 🚀 Introduction
 **3dgs_render_python** is a project aimed at reimplementing the CUDA code part of [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) using Python. As a result, we have not only preserved the core functionality of the algorithm but also greatly enhanced the readability and maintainability of the code.
