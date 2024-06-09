@@ -8,7 +8,7 @@
 """
 
 import numpy as np
-from .graphic_utils import getProjectionMatrix
+from .graphic import getProjectionMatrix
 
 
 def ndc2Pix(v, S):
